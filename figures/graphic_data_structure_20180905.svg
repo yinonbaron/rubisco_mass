@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="207.46439mm"
+   height="118.59304mm"
+   viewBox="0 0 735.11002 420.21156"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="graphic_data_structure_20180905.svg"
+   inkscape:export-filename="C:\Users\admin\Dropbox (Weizmann Institute)\Projects\rubisco in the wild\short version\figures\graphic_data_structure_20180905.svg.png"
+   inkscape:export-xdpi="300.32999"
+   inkscape:export-ydpi="300.32999">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16271"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path16269"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker15169"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path15167" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14865"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14863" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14172"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14170" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13952"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path13950" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11396"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path11394"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10988"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10986"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8140"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8138"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7008"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7006"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6606"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6604" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1368"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1366"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1230"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1228"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4877"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4879" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4442"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4444" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8118"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8120" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5694"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5696"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4422"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4424"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4520"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4522" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4510"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4512" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9029"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9031"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5998"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6000"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4273"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4258"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16271-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path16269-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="635.3662"
+     inkscape:cy="346.70833"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1644"
+     inkscape:window-x="-16"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(253.32609,474.3092)">
+    <rect
+       ry="4.2634654"
+       y="-279.6134"
+       x="239.94519"
+       height="98.296494"
+       width="190.53619"
+       id="rect15155"
+       style="opacity:0.37300002;fill:none;fill-opacity:0.26388891;fill-rule:evenodd;stroke:#002689;stroke-width:3.93093753;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86167148" />
+    <rect
+       style="opacity:0.37300002;fill:none;fill-opacity:0.26388891;fill-rule:evenodd;stroke:#359a00;stroke-width:3.91706371;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8414"
+       width="419.90457"
+       height="297.77371"
+       x="-251.36755"
+       y="-386.25504"
+       ry="12.915495" />
+    <g
+       id="g4242"
+       transform="matrix(0.26786444,0,0,0.26786444,-247.40168,-381.35144)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="37.984795"
+         height="47.846321"
+         width="402.72513"
+         id="rect4136"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.43935466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4138"
+         y="112.92034"
+         x="50.921757"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4176"
+           y="112.92034"
+           x="50.921757"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">field measured LAI per biome</tspan></text>
+    </g>
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,-216.96103,-356.49154)"
+       id="g1008">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:2.27006292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1002"
+         width="175.44081"
+         height="47.846321"
+         x="37.984795"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="50.921757"
+         y="112.92034"
+         id="text1006"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="50.921757"
+           y="112.92034"
+           id="tspan1004">biome map</tspan></text>
+    </g>
+    <g
+       id="g1016"
+       transform="matrix(0.26786444,0,0,0.26786444,-234.71808,-331.87641)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="37.984795"
+         height="47.846321"
+         width="308.02335"
+         id="rect1010"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.00790691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1014"
+         y="112.92034"
+         x="50.921757"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan1012"
+           y="112.92034"
+           x="50.921757"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">vegetation cover map</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-185.91928"
+       y="-338.71149"
+       id="text1020"><tspan
+         sodipodi:role="line"
+         id="tspan1018"
+         x="-185.91928"
+         y="-338.71149"
+         style="stroke-width:0.25112292px">×</tspan></text>
+    <text
+       id="text1024"
+       y="-313.09692"
+       x="-185.91928"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.25112292px"
+         y="-313.09692"
+         x="-185.91928"
+         id="tspan1022"
+         sodipodi:role="line">×</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -127.22573,-368.89095 h 19.37234 v 82.15307 h -19.07887"
+       id="path1028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4520)"
+       d="m -107.79444,-327.1292 h 43.124329"
+       id="path1030"
+       inkscape:connector-curvature="0" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,-66.220721,-355.01539)"
+       id="g1038">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:2.89480686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1032"
+         width="285.29489"
+         height="47.846321"
+         x="37.984795"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="50.921757"
+         y="112.92034"
+         id="text1036"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="50.921757"
+           y="112.92034"
+           id="tspan1034">field based LAI map</tspan></text>
+    </g>
+    <g
+       id="g1046"
+       transform="matrix(0.26786444,0,0,0.26786444,89.60255,-355.01539)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-149.51521"
+         height="47.846321"
+         width="423.55951"
+         id="rect1040"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.52719784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1044"
+         y="112.92034"
+         x="-136.57823"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan1042"
+           y="112.92034"
+           x="-136.57823"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">remote sensing based LAI map</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1364"
+       d="m 114.88679,-317.64261 c -9.59234,18.15633 -33.01381,28.89729 -42.22757,32.47479 -21.92114,8.51136 -21.1905,23.78523 -21.1905,41.09022"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1368)"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:nodetypes="csc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6606)"
+       d="m -12.074821,-317.64261 c 9.5923403,18.15633 33.013881,28.89729 42.227641,32.47479 21.92106,8.51136 21.19057,23.78523 21.19057,41.09022"
+       id="path6602"
+       inkscape:connector-curvature="0" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,59.01278,-261.08522)"
+       id="g6884">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:2.53628612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6878"
+         width="219.00362"
+         height="47.846321"
+         x="-145.76521"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-136.57823"
+         y="112.92034"
+         id="text6882"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="-136.57823"
+           y="112.92034"
+           id="tspan6880">global leaf area</tspan></text>
+    </g>
+    <g
+       id="g6982"
+       transform="matrix(0.26786444,0,0,0.26786444,-89.24314,-261.08522)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-258.2652"
+         height="47.846321"
+         width="338.20004"
+         id="rect6976"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.15180564;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text6980"
+         y="112.92034"
+         x="-249.07823"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6978"
+           y="112.92034"
+           x="-249.07823"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">mean leaf mass (Glopnet)</tspan></text>
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:2.44508123;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6984"
+         width="203.53607"
+         height="47.846321"
+         x="124.23479"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="133.42177"
+         y="112.92034"
+         id="text6988"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="133.42177"
+           y="112.92034"
+           id="tspan6986">leaf mass map</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.82870561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -56.102051,-243.17407 -9.44654,19.55853"
+       id="path6990"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="7.8037715"
+       y="-231.23083"
+       id="text6994"><tspan
+         sodipodi:role="line"
+         id="tspan6992"
+         x="7.8037715"
+         y="-231.23083"
+         style="stroke-width:0.25112292px">×</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path7002"
+       d="m -168.93453,-226.82996 v 19.37234 l 270.37804,1.52204 0.0627,-20.60091"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7004"
+       d="m 67.29586,-206.42163 v 41.82217"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7008)"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,49.4328,-179.17746)"
+       id="g6884-0">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.58398271;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6878-3"
+         width="437.30719"
+         height="47.846321"
+         x="-145.76521"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-136.57823"
+         y="112.92034"
+         id="text6882-7"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="-136.57823"
+           y="112.92034"
+           id="tspan6880-8">remote sensing based leaf mass</tspan></text>
+    </g>
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,-192.05816,-165.88799)"
+       id="g8114">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.80417323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8108"
+         width="492.69183"
+         height="47.846321"
+         x="37.984795"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="50.921757"
+         y="112.92034"
+         id="text8112"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="50.921757"
+           y="112.92034"
+           id="tspan8110">mean leaf mass fraction per biome</tspan></text>
+    </g>
+    <g
+       id="g8122"
+       transform="matrix(0.26786444,0,0,0.26786444,-161.61751,-141.02808)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-74.515205"
+         height="47.846321"
+         width="398.93707"
+         id="rect8116"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.423141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8120"
+         y="112.92034"
+         x="-61.578243"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan8118"
+           y="112.92034"
+           x="-61.578243"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">total plant biomass per biome</tspan></text>
+    </g>
+    <text
+       id="text8126"
+       y="-123.24802"
+       x="-130.57568"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.25112292px"
+         y="-123.24802"
+         x="-130.57568"
+         id="tspan8124"
+         sodipodi:role="line">×</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path8134"
+       d="m -50.386771,-151.23073 h 19.372341 v 51.64276 h -19.078881"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.41811764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8136"
+       d="M -30.95548,-124.72413 H 12.16891"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8140)" />
+    <g
+       id="g8340"
+       transform="matrix(0.26089142,0,0,0.26786444,57.95901,-152.55843)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-145.76521"
+         height="47.846321"
+         width="401.55505"
+         id="rect8334"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.43435478;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8338"
+         y="112.92034"
+         x="-136.57823"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan8336"
+           y="112.92034"
+           x="-136.57823"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">mass fraction based leaf mass</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path11392"
+       d="m 132.04635,-158.60847 c 22.54251,0 18.73027,9.66041 26.65954,15.56124 5.6095,4.17447 10.24586,4.36479 27.55089,4.36479"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11396)"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:nodetypes="csc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker13952)"
+       d="m 132.04635,-118.84631 c 22.54251,0 18.89639,-9.44363 26.65954,-15.56125 5.92344,-4.66774 10.24586,-4.36478 27.55089,-4.36478"
+       id="path13948"
+       inkscape:connector-curvature="0" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.26089142,0,0,0.26786444,190.67749,-167.6258)"
+       id="g14768">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:2.51222348;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect14762"
+         width="214.86778"
+         height="47.846321"
+         x="27.495089"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="36.682064"
+         y="112.92034"
+         id="text14766"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="36.682064"
+           y="112.92034"
+           id="tspan14764">total leaf mass</tspan></text>
+    </g>
+    <g
+       id="g14845"
+       transform="matrix(0.26786444,0,0,0.26786444,273.37151,-275.29087)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="37.984795"
+         height="47.846321"
+         width="441.44272"
+         id="rect14839"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.60088944;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text14843"
+         y="112.92034"
+         x="50.921757"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan14841"
+           y="112.92034"
+           x="50.921757"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">mean leaf nitrogen mass fraction </tspan></text>
+    </g>
+    <g
+       style="stroke:none"
+       transform="matrix(0.26786444,0,0,0.26786444,303.81224,-250.43097)"
+       id="g14853">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.96847677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect14847"
+         width="536.16992"
+         height="47.846321"
+         x="-168.26521"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-155.32823"
+         y="112.92034"
+         id="text14851"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="-155.32823"
+           y="112.92034"
+           id="tspan14849">mean fraction of leaf nitrogen in Rubisco</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="334.85461"
+       y="-232.65088"
+       id="text14857"><tspan
+         sodipodi:role="line"
+         id="tspan14855"
+         x="334.85461"
+         y="-232.65088"
+         style="stroke-width:0.25112292px">+</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.74642354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 417.33546,-215.64393 v 19.15178 H 250.85789 v -18.86167"
+       id="path14859"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14865)"
+       d="m 333.03492,-196.95201 v 43.12435"
+       id="path14861"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g15149"
+       transform="matrix(0.26089142,0,0,0.26786444,330.63105,-167.6258)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-203.51863"
+         height="47.846321"
+         width="412.5358"
+         id="rect15143"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.48099518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text15147"
+         y="112.92034"
+         x="-194.33167"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan15145"
+           y="112.92034"
+           x="-194.33167"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">fraction of leaf mass in Rubisco</tspan></text>
+    </g>
+    <text
+       id="text15153"
+       y="-136.80864"
+       x="264.3028"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.25112292px"
+         y="-136.80864"
+         x="264.3028"
+         id="tspan15151"
+         sodipodi:role="line">×</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.44602433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 194.62226,-135.45057 v 19.42609 l 192.87406,1.52625 0.0454,-20.65807"
+       id="path15163"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15169)"
+       d="M 285.05776,-115.54731 V -72.423"
+       id="path15165"
+       inkscape:connector-curvature="0" />
+    <g
+       style="stroke:none"
+       transform="matrix(0.26089142,0,0,0.26786444,283.75677,-88.77321)"
+       id="g15429">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.48099518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15423"
+         width="412.5358"
+         height="47.846321"
+         x="-203.51863"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-194.33167"
+         y="112.92034"
+         id="text15427"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="-194.33167"
+           y="112.92034"
+           id="tspan15425">total mass of terrestrial Rubisco</tspan></text>
+    </g>
+    <g
+       id="g15491"
+       transform="matrix(0.26089142,0,0,0.26786444,343.75701,-384.15117)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="-203.51863"
+         height="47.846321"
+         width="419.11505"
+         id="rect15485"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.50864339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text15489"
+         y="112.92034"
+         x="-194.33167"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan15487"
+           y="112.92034"
+           x="-194.33167"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">Total mass of terrestrial Rubisco</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-245.84023"
+       y="-454.43851"
+       id="text15495"><tspan
+         sodipodi:role="line"
+         id="tspan15493"
+         x="-245.84023"
+         y="-454.43851"
+         style="font-size:25px;stroke-width:0.25112292px">a</tspan></text>
+    <text
+       id="text16203"
+       y="-450.42075"
+       x="188.62407"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px;stroke-width:0.25112292px"
+         y="-450.42075"
+         x="188.62407"
+         id="tspan16201"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       id="text16207"
+       y="-454.43851"
+       x="-213.96515"
+       style="font-style:normal;font-weight:normal;font-size:18.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:18.75px;stroke-width:0.25112292px"
+         y="-454.43851"
+         x="-213.96515"
+         id="tspan16205"
+         sodipodi:role="line">terrestrial Rubisco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="217.28491"
+       y="-450.6886"
+       id="text16215"><tspan
+         sodipodi:role="line"
+         id="tspan16213"
+         x="217.28491"
+         y="-450.6886"
+         style="font-size:18.75px;stroke-width:0.25112292px">marine Rubisco</tspan></text>
+    <g
+       id="g16251"
+       transform="matrix(0.26089142,0,0,0.26786445,353.83495,-457.77067)"
+       style="stroke:none">
+      <rect
+         y="81.605606"
+         x="27.495089"
+         height="47.846321"
+         width="412.69907"
+         id="rect16245"
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.48168397;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text16249"
+         y="112.92034"
+         x="36.682064"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan16247"
+           y="112.92034"
+           x="36.682064"
+           sodipodi:role="line"
+           style="font-size:25px;line-height:1.25">total marine produces biomass</tspan></text>
+    </g>
+    <g
+       style="stroke:none"
+       transform="matrix(0.26089142,0,0,0.26786445,287.53851,-457.77067)"
+       id="g16259">
+      <rect
+         style="opacity:1;fill:#a4a4a4;fill-opacity:0.51372549;fill-rule:evenodd;stroke:none;stroke-width:3.48099518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect16253"
+         width="412.5358"
+         height="47.846321"
+         x="-203.51863"
+         y="81.605606" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-194.33167"
+         y="112.92034"
+         id="text16257"><tspan
+           style="font-size:25px;line-height:1.25"
+           sodipodi:role="line"
+           x="-194.33167"
+           y="112.92034"
+           id="tspan16255">mean mass fraction of Rubisco</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.27807283px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25112292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="348.71039"
+       y="-426.95355"
+       id="text16263"><tspan
+         sodipodi:role="line"
+         id="tspan16261"
+         x="348.71039"
+         y="-426.95355"
+         style="stroke-width:0.25112292px">×</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path16265"
+       d="m 217.20548,-429.34552 v 19.37626 l 264.25577,1.52234 0.062,-20.60507"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52140599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16267"
+       d="m 349.37365,-409.46942 v 43.12431"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52735811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16271-1)" />
+    <rect
+       style="fill:none;stroke:#1c1c1e;stroke-width:4.09886169;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86167148"
+       id="rect7366"
+       width="309.27332"
+       height="214.71631"
+       x="180.45244"
+       y="-544.95856" />
+  </g>
+</svg>
